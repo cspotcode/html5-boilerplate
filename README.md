@@ -1,3 +1,17 @@
+# Custom HTML5 Boilerplate
+
+Every time I grab HTML5 Boilerplate to start a project, I need to make some changes: convert index.html into index.jade,
+delete the included jquery files and instead grab them with bower, etc.  I'm hoping to make all those changes here,
+once, and save some time in the future.
+
+My main branch is called `custom`, so that I can preserve all branch and tag names from the original H5BP repository.
+
+Currently it's based on H5BP 4.3.0; I'll merge in new releases when they're made, and if I need them.
+
+*Below is the original H5BP readme*
+
+---
+
 # [HTML5 Boilerplate](http://html5boilerplate.com)
 
 HTML5 Boilerplate is a professional front-end template for building fast,
